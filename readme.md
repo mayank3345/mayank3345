@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/aditya-singh0100">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/mayank3345">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://ai-mail-gen.vercel.app">
@@ -31,6 +31,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,docker,aws,git,github,linux,postman,vscode&perline=10"/>
 </p>
+
 ---
 
 # 📊 GitHub Analytics
@@ -116,19 +117,19 @@
 
 <div align="center">
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
 <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="YOUR_HACKERRANK">
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="YOUR_GFG">
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="YOUR_CODECHEF">
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
 </a>
 
@@ -144,7 +145,7 @@
 
 </div>
 
-> **Note:** This requires a GitHub Action (`snake.yml`) to generate the snake animation.
+> **Note:** This requires a GitHub Action (`snake.yml`) to generate the snake animation. If you haven't set that up yet in your profile repo, this image will show broken.
 
 ---
 
@@ -176,7 +177,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:your.actual.email@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
