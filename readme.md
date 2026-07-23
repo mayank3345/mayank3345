@@ -50,8 +50,6 @@
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mayank3345&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayank3345&theme=tokyonight"/>
-
 </div>
 
 <br>
@@ -146,16 +144,6 @@
 </div>
 
 > **Note:** This requires a GitHub Action (`snake.yml`) to generate the snake animation. If you haven't set that up yet in your profile repo, this image will show broken.
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayank3345&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
 
 ---
 
