@@ -37,3 +37,12 @@
 + Open Source Contributor
 
 + Always shipping projects 🚀
+
+# STEP 6 — Tech Stack
+
+```html
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,docker,aws,git,github,linux,postman,vscode&perline=10"/>
+
+</p>
