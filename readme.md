@@ -9,7 +9,7 @@
 <a href="https://github.com/mayank3345">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://ai-mail-gen.vercel.app">
+<a href="https://portfolio-rose-nu-60.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 <a href="mailto:your.actual.email@gmail.com">
