@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 ```diff
-+ Full Stack MERN Developer
++ MERN FullStack Developer
 + Passionate about building scalable web applications
 + Interested in AI, Cloud & System Design
 + Looking for Software Engineer opportunities
